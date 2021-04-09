@@ -35,7 +35,8 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 
-
+## Demo
+    you can use, demo file to test it. it will takeoff the, the drone then after 5 sec, land it, then repeat after 10 sec.
 ## Funtions
 
 | Funtion | Discribtion |

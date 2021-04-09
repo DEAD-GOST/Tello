@@ -3,6 +3,12 @@
 ####  Librabry to controll Dji Tello
 As there was no library available to control the Tello DJI drone by nodemcu or by Arduino, there was only 1 library founded, but even that was not working, so i have created a library from the scratch.
 
+## Installation
+ > Download, This **library(tello)** either by zip or by git.
+ > Then in arduino library go to sketch -> include lib -> add zip lib.
+ ### or
+ >just simply download the file, copy tello file, and then add the tello file in Arduino library, >located in Document -> Arduino -> Library
+##### Then add the tello file in Arduino library, located in Document -> Arduino -> Library.
 
 ## Usage
 This library includes a class "Tello"
@@ -28,9 +34,7 @@ This library includes a class "Tello"
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
-## Installation
-##### Download, This library either by zip or by git.
-##### Then add the tello file in Arduino library, located in Document -> Arduino -> Library.
+
 
 ## Funtions
 
@@ -71,6 +75,5 @@ Here's the [link](https://youtu.be/LmEcyQnfpDA)
 ## License
 
 **Free Software, Hell Yeah!**
-
 
 
